@@ -1,0 +1,57 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Color Palette */
+.color-1{
+	background-color: #946A33;
+    border: none;
+}
+
+.color-2{
+	background-color: #943333;
+    border: none;
+}
+
+.color-3{
+	background-color: #33947C;
+    border: none;
+}
+
+.color-4{
+	background-color: #CCAD85;
+    border: none;
+}
+
+/* Textures or Patterns*/
+.pattern-1{
+	background: url(../img/purty_wood.png);
+    border: none;
+}
+
+.pattern-2{
+	background: url(../img/subtle_stripes.png);
+    border: none;
+}
+
+.pattern-3{
+	background: url(../img/swirl-2.png);
+    border: none;
+}
+
+/* Imagery */
+
+
+/* Icons */
+
+
+/* Typography */
+
+
+/* Forms */
+
+
+/* Tables */
+
+
+/* Cards */
