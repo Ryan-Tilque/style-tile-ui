@@ -82,8 +82,19 @@ section p button{
 }
 
 /* Typography */
+.type-1 p a,
+.type-2 p a{
+	text-decoration: none;
+	color: grey;
+}
 
+.type-1{
+	font-family: 'Raleway', sans-serif;
+}
 
+.type-2{
+	font-family: 'Roboto Slab', serif;
+}
 /* Forms */
 .button-a{
 	background: none;
@@ -101,4 +112,6 @@ input{
 /* Tables */
 
 
-/* Cards 
+/* Cards */
+
+
