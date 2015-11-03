@@ -1,4 +1,4 @@
-/***************/
+**************/
 /* YOUR STYLES */
 /***************/
 
@@ -57,14 +57,41 @@
 
 }
 
+/* navigation */
+
+.nav-1 a{
+	text-decoration: none;
+	color: #33947C;
+}
+.nav-1 ul{
+	padding-left: 5%;
+}
+
+.nav-1 li{
+	list-style: none;
+}
+
+section p a{
+	text-decoration: none;
+	color: #943333;
+}
+
+section p button{
+	background: #CCAD85;
+	border: none;
+}
+
 /* Typography */
 
 
 /* Forms */
-.button-a,
-.button-b{
+.button-a{
 	background: none;
 	border: 2px dashed black;
+}
+.button-b{
+	background: none;
+	border: 2px dotted black;
 }
 
 input{
@@ -74,4 +101,4 @@ input{
 /* Tables */
 
 
-/* Cards */
+/* Cards 
