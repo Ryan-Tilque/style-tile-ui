@@ -41,15 +41,35 @@
 
 /* Imagery */
 
+.imagery-1,
+.imagery-2,
+.imagery-3,
+.imagery-4,
+.imagery-5{
+	border: none;
+}
 
 /* Icons */
+.icon-1,
+.icon-2,
+.icon-3{
+	border: none;
 
+}
 
 /* Typography */
 
 
 /* Forms */
+.button-a,
+.button-b{
+	background: none;
+	border: 2px dashed black;
+}
 
+input{
+	color: black;
+}
 
 /* Tables */
 
